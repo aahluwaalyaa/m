@@ -205,7 +205,8 @@
                 colorScheme: h.get("colorscheme") || void 0,
                 numPosts: h.get("numposts") || void 0,
                 orderBy: h.get("orderby") || void 0,
-                language: p || void 0
+                language: p || void 0,
+                appId: h.get("appId") || void 0
             }).href ? (o.addEventListener("message", function (e) {
                 var t;
                 "string" == typeof e.data && (e = (t = new URLSearchParams(e.data)).get("type"),
