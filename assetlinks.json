@@ -1,0 +1,28 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "health.realhappiness.irelax",
+      "sha256_cert_fingerprints": [
+        "8F:B3:01:24:59:E1:FB:F9:A8:A6:3E:38:59:9C:33:A3:7C:BF:A5:61:E6:B3:5F:42:7C:C0:99:12:7C:2B:EB:5E"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "appinventor.ai_realpsychotechservices.FreeIGNOUHelpCenter",
+      "sha256_cert_fingerprints": [
+        "F2:92:E4:AA:FD:78:FE:03:75:87:BA:47:98:38:97:F6:81:B7:E1:BD:6A:DE:93:EC:FD:4C:2E:11:0F:43:49:EC"
+      ]
+    }
+  }
+]
