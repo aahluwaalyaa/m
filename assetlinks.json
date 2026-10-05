@@ -24,5 +24,17 @@
         "F2:92:E4:AA:FD:78:FE:03:75:87:BA:47:98:38:97:F6:81:B7:E1:BD:6A:DE:93:EC:FD:4C:2E:11:0F:43:49:EC"
       ]
     }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.psychotechservices.psylearners",
+      "sha256_cert_fingerprints": [
+        "5A:A1:3B:36:A7:0D:AA:62:BB:27:78:A4:D2:A1:AD:59:C7:5F:02:EA:6F:C3:8C:D6:9B:B7:31:7D:AF:A9:42:2F"
+      ]
+    }
   }
 ]
