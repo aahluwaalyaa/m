@@ -1,99 +1,95 @@
 {
-    "id": "Real Happiness Center",
-    "name": "Real Happiness Center",
-    "short_name": "RHC",
-    "scope": "https://RealHappinessCenter.com/",
-    "start_url": "https://RealHappinessCenter.com/",
-    "display": "standalone",
-    "background_color": "#fff",
-    "theme_color": "#023",
-    "shortcuts": [
-      {
-        "name": "Art Is Happiness",
-        "short_name": "Art",
-        "description": "Visit Art is Happiness",
-        "url": "https://Art.RealHappinessCenter.com/",
-        "icons": [{ "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKG--lCWCmjQhJ-WSgoEXxD0gVKGZDhDN4rXikIlY0pzqnKaNPDvhdjzANBCpQEHJckXD23RomA4-j4gFD3zRfLzMXSzmBE6JBVLwSfXGbEX4orkw5yOPWZZTgAt91Gu_X_VD0IqVkY99FqRs5VUQ2p7kBsXSrx7TNxjV31g8xiMDdtaWsaxU10eVscA/s192/20221201_RHC-logo_1000.webp", "sizes": "192x192" }]
-      },
-      {
-        "name": "Blogging Is Happiness",
-        "short_name": "Blogging",
-        "description": "Visit Blogging is Happiness",
-        "url": "https://Blogging.RealHappinessCenter.com/",
-        "icons": [{ "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKG--lCWCmjQhJ-WSgoEXxD0gVKGZDhDN4rXikIlY0pzqnKaNPDvhdjzANBCpQEHJckXD23RomA4-j4gFD3zRfLzMXSzmBE6JBVLwSfXGbEX4orkw5yOPWZZTgAt91Gu_X_VD0IqVkY99FqRs5VUQ2p7kBsXSrx7TNxjV31g8xiMDdtaWsaxU10eVscA/s192/20221201_RHC-logo_1000.webp", "sizes": "192x192" }]
-      },
-      {
-        "name": "Health Is Happiness",
-        "short_name": "Health",
-        "description": "Visit Health is Happiness",
-        "url": "https://Health.RealHappinessCenter.com/",
-        "icons": [{ "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKG--lCWCmjQhJ-WSgoEXxD0gVKGZDhDN4rXikIlY0pzqnKaNPDvhdjzANBCpQEHJckXD23RomA4-j4gFD3zRfLzMXSzmBE6JBVLwSfXGbEX4orkw5yOPWZZTgAt91Gu_X_VD0IqVkY99FqRs5VUQ2p7kBsXSrx7TNxjV31g8xiMDdtaWsaxU10eVscA/s192/20221201_RHC-logo_1000.webp", "sizes": "192x192" }]
-      },
-      {
-        "name": "Money Is Happiness",
-        "short_name": "Money",
-        "description": "Visit Money is Happiness",
-        "url": "https://Money.RealHappinessCenter.com/",
-        "icons": [{ "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKG--lCWCmjQhJ-WSgoEXxD0gVKGZDhDN4rXikIlY0pzqnKaNPDvhdjzANBCpQEHJckXD23RomA4-j4gFD3zRfLzMXSzmBE6JBVLwSfXGbEX4orkw5yOPWZZTgAt91Gu_X_VD0IqVkY99FqRs5VUQ2p7kBsXSrx7TNxjV31g8xiMDdtaWsaxU10eVscA/s192/20221201_RHC-logo_1000.webp", "sizes": "192x192" }]
-      },
-      {
-        "name": "Movies Are Happiness",
-        "short_name": "Movies",
-        "description": "Go to Movies Are Happiness",
-        "url": "https://Movies.RealHappinessCenter.com/",
-        "icons": [{ "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKG--lCWCmjQhJ-WSgoEXxD0gVKGZDhDN4rXikIlY0pzqnKaNPDvhdjzANBCpQEHJckXD23RomA4-j4gFD3zRfLzMXSzmBE6JBVLwSfXGbEX4orkw5yOPWZZTgAt91Gu_X_VD0IqVkY99FqRs5VUQ2p7kBsXSrx7TNxjV31g8xiMDdtaWsaxU10eVscA/s192/20221201_RHC-logo_1000.webp", "sizes": "192x192" }]
-      },
-      {
-        "name": "Reading Is Happiness",
-        "short_name": "Reading",
-        "description": "Go to Reading is Happiness",
-        "url": "https://Reading.RealHappinessCenter.com/",
-        "icons": [{ "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKG--lCWCmjQhJ-WSgoEXxD0gVKGZDhDN4rXikIlY0pzqnKaNPDvhdjzANBCpQEHJckXD23RomA4-j4gFD3zRfLzMXSzmBE6JBVLwSfXGbEX4orkw5yOPWZZTgAt91Gu_X_VD0IqVkY99FqRs5VUQ2p7kBsXSrx7TNxjV31g8xiMDdtaWsaxU10eVscA/s192/20221201_RHC-logo_1000.webp", "sizes": "192x192" }]
-      },
-      {
-        "name": "Religion Is Happiness",
-        "short_name": "Religion",
-        "description": "Go to Religion is Happiness",
-        "url": "https://Religion.RealHappinessCenter.com/",
-        "icons": [{ "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKG--lCWCmjQhJ-WSgoEXxD0gVKGZDhDN4rXikIlY0pzqnKaNPDvhdjzANBCpQEHJckXD23RomA4-j4gFD3zRfLzMXSzmBE6JBVLwSfXGbEX4orkw5yOPWZZTgAt91Gu_X_VD0IqVkY99FqRs5VUQ2p7kBsXSrx7TNxjV31g8xiMDdtaWsaxU10eVscA/s192/20221201_RHC-logo_1000.webp", "sizes": "192x192" }]
-      }
-   ],
-    "description": "Do you know what Real Happiness is? Do you know what Real Happiness is for you? Help us help you find happiness in life!",
-    "categories": ["lifestyle", "health", "happiness", "wellness", "self-actualization","Movies","Art","Blogging","Reading","Religion","Money"],
-    "icons": [{
-      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKG--lCWCmjQhJ-WSgoEXxD0gVKGZDhDN4rXikIlY0pzqnKaNPDvhdjzANBCpQEHJckXD23RomA4-j4gFD3zRfLzMXSzmBE6JBVLwSfXGbEX4orkw5yOPWZZTgAt91Gu_X_VD0IqVkY99FqRs5VUQ2p7kBsXSrx7TNxjV31g8xiMDdtaWsaxU10eVscA/s48/20221201_RHC-logo_1000.webp",
-      "sizes": "48x48",
-      "type": "image/png",
-      "purpose": "any"
-    }, {
-      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKG--lCWCmjQhJ-WSgoEXxD0gVKGZDhDN4rXikIlY0pzqnKaNPDvhdjzANBCpQEHJckXD23RomA4-j4gFD3zRfLzMXSzmBE6JBVLwSfXGbEX4orkw5yOPWZZTgAt91Gu_X_VD0IqVkY99FqRs5VUQ2p7kBsXSrx7TNxjV31g8xiMDdtaWsaxU10eVscA/s72/20221201_RHC-logo_1000.webp",
-      "sizes": "72x72",
-      "type": "image/png",
-      "purpose": "any"
-    }, {
-      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKG--lCWCmjQhJ-WSgoEXxD0gVKGZDhDN4rXikIlY0pzqnKaNPDvhdjzANBCpQEHJckXD23RomA4-j4gFD3zRfLzMXSzmBE6JBVLwSfXGbEX4orkw5yOPWZZTgAt91Gu_X_VD0IqVkY99FqRs5VUQ2p7kBsXSrx7TNxjV31g8xiMDdtaWsaxU10eVscA/s96/20221201_RHC-logo_1000.webp",
-      "sizes": "96x96",
-      "type": "image/png",
-      "purpose": "any"
-    }, {
-      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKG--lCWCmjQhJ-WSgoEXxD0gVKGZDhDN4rXikIlY0pzqnKaNPDvhdjzANBCpQEHJckXD23RomA4-j4gFD3zRfLzMXSzmBE6JBVLwSfXGbEX4orkw5yOPWZZTgAt91Gu_X_VD0IqVkY99FqRs5VUQ2p7kBsXSrx7TNxjV31g8xiMDdtaWsaxU10eVscA/s144/20221201_RHC-logo_1000.webp",
-      "sizes": "144x144",
-      "type": "image/png",
-      "purpose": "any"
-    }, {
-      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKG--lCWCmjQhJ-WSgoEXxD0gVKGZDhDN4rXikIlY0pzqnKaNPDvhdjzANBCpQEHJckXD23RomA4-j4gFD3zRfLzMXSzmBE6JBVLwSfXGbEX4orkw5yOPWZZTgAt91Gu_X_VD0IqVkY99FqRs5VUQ2p7kBsXSrx7TNxjV31g8xiMDdtaWsaxU10eVscA/s168/20221201_RHC-logo_1000.webp",
-      "sizes": "168x168",
-      "type": "image/png",
-      "purpose": "any"
-    }, {
+  "id": "/?view=app",
+  "name": "Real Happiness Center",
+  "short_name": "RHC",
+  "description": "Do you know what Real Happiness is? Do you know what Real Happiness is for you? Help us help you find happiness in life!",
+  "start_url": "https://RealHappinessCenter.com/?utm_source=homescreen&view=app",
+  "scope": "https://RealHappinessCenter.com/",
+  "dir": "auto",
+  "lang": "en",
+  "orientation": "any",
+  "display": "standalone",
+  "prefer_related_applications": true,
+  "background_color": "#ffffff",
+  "theme_color": "#00334D",
+  "icons": [
+    {
       "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKG--lCWCmjQhJ-WSgoEXxD0gVKGZDhDN4rXikIlY0pzqnKaNPDvhdjzANBCpQEHJckXD23RomA4-j4gFD3zRfLzMXSzmBE6JBVLwSfXGbEX4orkw5yOPWZZTgAt91Gu_X_VD0IqVkY99FqRs5VUQ2p7kBsXSrx7TNxjV31g8xiMDdtaWsaxU10eVscA/s192/20221201_RHC-logo_1000.webp",
       "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any"
-    }, {
+      "type": "image/webp",
+      "purpose": "any maskable"
+    },
+    {
       "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKG--lCWCmjQhJ-WSgoEXxD0gVKGZDhDN4rXikIlY0pzqnKaNPDvhdjzANBCpQEHJckXD23RomA4-j4gFD3zRfLzMXSzmBE6JBVLwSfXGbEX4orkw5yOPWZZTgAt91Gu_X_VD0IqVkY99FqRs5VUQ2p7kBsXSrx7TNxjV31g8xiMDdtaWsaxU10eVscA/s512/20221201_RHC-logo_1000.webp",
       "sizes": "512x512",
+      "type": "image/webp",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwDWcsKnjPxz02ZEiymH2uughzuoqJS8zvO5boYT04_zJOo398zLGODzjkwpql29budpWu7gFI_4ngwJIyj62yo19YztcADI5ROOjHPWgXYF2_pN3606-yiYQcdyxlLzUXwpMSzJ1MDIHhhhoESwWZ9Np6_aG2NJChsaIXO8HA-pt04Ef3MChVr33EMJw/s0/narrow-screen.png",
+      "sizes": "540x720",
       "type": "image/png",
-      "purpose": "any"
-    }]
-  }
+      "form_factor": "narrow"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfmE071mkOsMFsRM_ndYJHDzDKhi267EMW-nDDBjfS2tfV5E6sMTZvdypOkaQoxo6iGxFwAUBVV3F54vD1vO44ppaKlEvplWAo0TrTpIf9wFMjRUCAmRJSoYXo8sSIXvIKf4xA0ZFgcZuCzL8jcwow3dKQc4xAhKCbvxqkzdgAJfJfUdIlG4fp3YRTwIw/s0/wide-screen.png",
+      "sizes": "720x540",
+      "type": "image/png",
+      "form_factor": "wide"
+    }
+  ],
+  "related_applications": [
+    {
+      "platform": "play",
+      "id": "health.realhappiness.irelax",
+      "url": "https://play.google.com/store/apps/details?id=health.realhappiness.irelax"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Art Is Happiness",
+      "short_name": "Art",
+      "description": "Visit Art is Happiness",
+      "url": "https://Art.RealHappinessCenter.com/?utm_source=homescreen&view=app"
+    },
+    {
+      "name": "Blogging Is Happiness",
+      "short_name": "Blogging",
+      "description": "Visit Blogging is Happiness",
+      "url": "https://Blogging.RealHappinessCenter.com/?utm_source=homescreen&view=app"
+    },
+    {
+      "name": "Health Is Happiness",
+      "short_name": "Health",
+      "description": "Visit Health is Happiness",
+      "url": "https://Health.RealHappinessCenter.com/?utm_source=homescreen&view=app"
+    },
+    {
+      "name": "Money Is Happiness",
+      "short_name": "Money",
+      "description": "Visit Money is Happiness",
+      "url": "https://Money.RealHappinessCenter.com/?utm_source=homescreen&view=app"
+    },
+    {
+      "name": "Movies Are Happiness",
+      "short_name": "Movies",
+      "description": "Go to Movies Are Happiness",
+      "url": "https://Movies.RealHappinessCenter.com/?utm_source=homescreen&view=app"
+    },
+    {
+      "name": "Reading Is Happiness",
+      "short_name": "Reading",
+      "description": "Go to Reading is Happiness",
+      "url": "https://Reading.RealHappinessCenter.com/?utm_source=homescreen&view=app"
+    },
+    {
+      "name": "Religion Is Happiness",
+      "short_name": "Religion",
+      "description": "Go to Religion is Happiness",
+      "url": "https://Religion.RealHappinessCenter.com/?utm_source=homescreen&view=app"
+    }
+  ],
+  "categories": ["lifestyle", "health", "happiness", "wellness", "self-actualization"]
+}

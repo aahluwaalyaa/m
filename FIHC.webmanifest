@@ -1,0 +1,71 @@
+{
+  "id": "/?view=app",
+  "name": "Free IGNOU Help Center",
+  "short_name": "FIHC",
+  "description": "Free Help & Guidance for IGNOU Students",
+  "start_url": "https://ignou.realhappinesscenter.com/?utm_source=homescreen&view=app",
+  "scope": "https://ignou.realhappinesscenter.com/",
+  "dir": "auto",
+  "lang": "en",
+  "orientation": "any",
+  "display": "standalone",
+  "prefer_related_applications": true,
+  "background_color": "#ffffff",
+  "theme_color": "#00334D",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdBT5HxCbZSzQFEl2yB-6j1WVEcn6H8VxhQWn1o23CIXp1mgNZAo3r78mZXgDtpinFRcufVYf38gdu8s13L3mFYyizzoByKwGn9NxYwvfgPtsgbz0oO1xTvzXgOdM7vJOVwqih7EZP3iLA3bd1D0CWAshGVfs_bEG2w70_aNY6mOby5ErMDSWEpG-3gA/s192/FIHC_logoMark_1000.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdBT5HxCbZSzQFEl2yB-6j1WVEcn6H8VxhQWn1o23CIXp1mgNZAo3r78mZXgDtpinFRcufVYf38gdu8s13L3mFYyizzoByKwGn9NxYwvfgPtsgbz0oO1xTvzXgOdM7vJOVwqih7EZP3iLA3bd1D0CWAshGVfs_bEG2w70_aNY6mOby5ErMDSWEpG-3gA/s512/FIHC_logoMark_1000.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwDWcsKnjPxz02ZEiymH2uughzuoqJS8zvO5boYT04_zJOo398zLGODzjkwpql29budpWu7gFI_4ngwJIyj62yo19YztcADI5ROOjHPWgXYF2_pN3606-yiYQcdyxlLzUXwpMSzJ1MDIHhhhoESwWZ9Np6_aG2NJChsaIXO8HA-pt04Ef3MChVr33EMJw/s0/narrow-screen.png",
+      "sizes": "540x720",
+      "type": "image/png",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfmE071mkOsMFsRM_ndYJHDzDKhi267EMW-nDDBjfS2tfV5E6sMTZvdypOkaQoxo6iGxFwAUBVV3F54vD1vO44ppaKlEvplWAo0TrTpIf9wFMjRUCAmRJSoYXo8sSIXvIKf4xA0ZFgcZuCzL8jcwow3dKQc4xAhKCbvxqkzdgAJfJfUdIlG4fp3YRTwIw/s0/wide-screen.png",
+      "sizes": "720x540",
+      "type": "image/png",
+      "form_factor": "wide"
+    }
+  ],
+  "related_applications": [
+    {
+      "platform": "play",
+      "id": "appinventor.ai_realpsychotechservices.FreeIGNOUHelpCenter",
+      "url": "https://play.google.com/store/apps/details?id=appinventor.ai_realpsychotechservices.FreeIGNOUHelpCenter"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "IGNOU Assignments",
+      "short_name": "Assignments",
+      "description": "Download IGNOU Solved Assignments",
+      "url": "https://ignou.realhappinesscenter.com/search/label/Assignments?utm_source=homescreen&view=app"
+    },
+    {
+      "name": "IGNOU Exams & Hall Tickets",
+      "short_name": "Exams",
+      "description": "Exams & Datesheet information",
+      "url": "https://ignou.realhappinesscenter.com/search/label/Exams?utm_source=homescreen&view=app"
+    },
+    {
+      "name": "IGNOU Projects",
+      "short_name": "Projects",
+      "description": "IGNOU Project Guides & Synopses",
+      "url": "https://ignou.realhappinesscenter.com/search/label/Projects?utm_source=homescreen&view=app"
+    }
+  ],
+  "categories": ["education", "reference", "students", "ignou"]
+}

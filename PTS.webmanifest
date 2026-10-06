@@ -1,0 +1,77 @@
+{
+  "id": "/?view=app",
+  "name": "Psychology Learners",
+  "short_name": "PsyLearners",
+  "description": "Psychology and Technology for a Better Humanity",
+  "start_url": "https://psylearners.psychotechservices.com/?utm_source=homescreen&view=app",
+  "scope": "https://psylearners.psychotechservices.com/",
+  "dir": "auto",
+  "lang": "en",
+  "orientation": "any",
+  "display": "standalone",
+  "prefer_related_applications": true,
+  "background_color": "#ffffff",
+  "theme_color": "#00334D",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaYinBtpii3_MFeC72ia6_bP8WT1Bom5xfiVsIn5scVzATIKv3zsfcgGScblayJKoEJ864BdKd9nDjFa3ymaRqImtjcAmrokAkn7IPMDtEPfQiM-Id8XiS9YTCntMfRkM0jnIxPjXFQ6yYP5inxkEq-Z62tGb1l99DOggH7KTJHFeYM-O_A9JgH92VrA/s192/20221004_PTSLogo_1000.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaYinBtpii3_MFeC72ia6_bP8WT1Bom5xfiVsIn5scVzATIKv3zsfcgGScblayJKoEJ864BdKd9nDjFa3ymaRqImtjcAmrokAkn7IPMDtEPfQiM-Id8XiS9YTCntMfRkM0jnIxPjXFQ6yYP5inxkEq-Z62tGb1l99DOggH7KTJHFeYM-O_A9JgH92VrA/s512/20221004_PTSLogo_1000.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwDWcsKnjPxz02ZEiymH2uughzuoqJS8zvO5boYT04_zJOo398zLGODzjkwpql29budpWu7gFI_4ngwJIyj62yo19YztcADI5ROOjHPWgXYF2_pN3606-yiYQcdyxlLzUXwpMSzJ1MDIHhhhoESwWZ9Np6_aG2NJChsaIXO8HA-pt04Ef3MChVr33EMJw/s0/narrow-screen.png",
+      "sizes": "540x720",
+      "type": "image/png",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfmE071mkOsMFsRM_ndYJHDzDKhi267EMW-nDDBjfS2tfV5E6sMTZvdypOkaQoxo6iGxFwAUBVV3F54vD1vO44ppaKlEvplWAo0TrTpIf9wFMjRUCAmRJSoYXo8sSIXvIKf4xA0ZFgcZuCzL8jcwow3dKQc4xAhKCbvxqkzdgAJfJfUdIlG4fp3YRTwIw/s0/wide-screen.png",
+      "sizes": "720x540",
+      "type": "image/png",
+      "form_factor": "wide"
+    }
+  ],
+  "related_applications": [
+    {
+      "platform": "play",
+      "id": "com.psychotechservices.psylearners",
+      "url": "https://play.google.com/store/apps/details?id=com.psychotechservices.psylearners"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Psychology Learners",
+      "short_name": "PsyLearners",
+      "description": "Go to Psychology Learners",
+      "url": "https://psylearners.psychotechservices.com/?utm_source=homescreen&view=app"
+    },
+    {
+      "name": "LaVie - People Development Services",
+      "short_name": "LaVie",
+      "description": "Visit LaVie",
+      "url": "https://lavie.psychotechservices.com/?utm_source=homescreen&view=app"
+    },
+    {
+      "name": "PsychoTech Services for Society",
+      "short_name": "PTSS",
+      "description": "Go to PTS for Society",
+      "url": "https://social.psychotechservices.com/?utm_source=homescreen&view=app"
+    },
+    {
+      "name": "Sociology Learners",
+      "short_name": "Sociology",
+      "description": "Go to Sociology Learners",
+      "url": "https://sociology.psychotechservices.com/?utm_source=homescreen&view=app"
+    }
+  ],
+  "categories": ["education", "psychology", "services", "technology", "Mental Health"]
+}
